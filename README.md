@@ -1,2 +1,5 @@
 # Book-Lending-Concept
->>>>>>> 64d4fff0d3ea4e9a026bfe106b2791f73a3758ce
+
+### Main Screen
+
+<img src = "assets/screen1.png" width = "400"> <img src = "assets/screenshots/main_screen.jpg" width = "400">
